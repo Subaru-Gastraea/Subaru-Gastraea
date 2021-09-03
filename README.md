@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subaru-Gastraea
-- 👀 I’m interested in embedded system, playing chess, mountain climbing ...
+- 👀 I’m interested in embedded system, language learning, playing chess, mountain climbing ...
 - 🌱 I’m currently learning computer science at university in Taiwan
 - 💞️ I’m looking to collaborate on smart grid
 - 📫 How to reach me : davidqxzz123@gmail.com
