@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subaru-Gastraea
-- 👀 I’m interested in computer network, embedded system, language learning, playing chess, mountain climbing ...
-- 🌱 I’m currently learning computer science at university in Taiwan
-- 💞️ I’m looking to collaborate on smart grid
+- 👀 I’m interested in computer network, language learning, playing chess, mountain climbing ...
+- 🌱 I’m currently learning computer science at NCKU in Taiwan
+- 💞️ I’m looking to collaborate on green energy applications
 - 📫 How to reach me : davidqxzz123@gmail.com
 
 <!---
